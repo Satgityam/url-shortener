@@ -267,10 +267,9 @@ Tests cover:
 ## AI Usage Disclosure
 
 I used ChatGPT to assist with:
-- Designing the project architecture
-- Writing Flask routes and service logic
-- Writing regex for URL validation
-- Creating test cases and fixing edge case bugs
+- Get suggestions for structuring the Flask project
+- Clarify syntax for URL validation using regex
+- Cross-check edge cases for test coverage
 
 All code was reviewed, tested, and verified manually before submission.
 
